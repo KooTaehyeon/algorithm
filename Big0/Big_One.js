@@ -75,3 +75,11 @@ function sum(arr) {
   return total;
 }
 console.log(sum([3, 2, 1]));
+
+// 정렬 되어있지 않은 데이터 구조
+// 모두 key,value 짝을 갖고 저장되어있음.
+let instructor = {
+  firstName: 'Kelly',
+  isInstructor: true,
+  favoriteNumbers: [1, 2, 3, 4],
+};
