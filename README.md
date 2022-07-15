@@ -304,3 +304,6 @@
   시간복잡도  Log(N)
 
   ```
+    ### 모던 자바스크립트
+
+  https://talented-ox-d47.notion.site/f1f3bc7776e94aadbf37ce52b6a41350
